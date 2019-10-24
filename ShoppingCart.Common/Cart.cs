@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ShoppingCart
+namespace ShoppingCart.Common
 {
     public class Cart
     {

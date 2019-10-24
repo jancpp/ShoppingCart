@@ -1,5 +1,5 @@
 using NUnit.Framework;
-using ShoppingCart;
+using ShoppingCart.Common;
 using System;
 
 namespace ShoppingCartTests
